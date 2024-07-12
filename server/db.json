@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "id": "178f",
+      "username": "shudan",
+      "email": "nghia120425@gmail.com",
+      "fullname": "Ngô Hữu Nghĩa",
+      "status": true,
+      "password": "nghia12345",
+      "role": false,
+      "avatar": "",
+      "phone": "",
+      "address": "",
+      "created_at": "6/7/2024",
+      "updated_at": "6/7/2024"
+    },
+    {
+      "id": "d031",
+      "username": "visten",
+      "email": "nghia120452@gmail.com",
+      "fullname": "Phạm Như Hoa",
+      "status": true,
+      "password": "nghia12345",
+      "role": false,
+      "avatar": "",
+      "phone": "",
+      "address": "",
+      "created_at": "8/7/2024",
+      "updated_at": "8/7/2024"
+    },
+    {
+      "id": "93cc",
+      "username": "Namber",
+      "email": "nam@gmail.com",
+      "fullname": "Ngô Hữu Nghĩa",
+      "status": true,
+      "password": "nam123",
+      "role": true,
+      "avatar": "",
+      "phone": "",
+      "address": "",
+      "created_at": "8/7/2024",
+      "updated_at": "8/7/2024"
+    },
+    {
+      "id": "510e",
+      "username": "DuyBui",
+      "email": "fuy@gmail.com",
+      "fullname": "Bùi Đức Duy",
+      "status": true,
+      "password": "duy123",
+      "role": false,
+      "avatar": "",
+      "phone": "",
+      "address": "",
+      "created_at": "10/7/2024",
+      "updated_at": "10/7/2024"
+    },
+    {
+      "id": "8183",
+      "username": "dungbg",
+      "email": "dungdb@gmail.com",
+      "fullname": "Đặng Tô Ngộ Dũng",
+      "status": true,
+      "password": "dung123",
+      "role": false,
+      "avatar": "",
+      "phone": "",
+      "address": "",
+      "created_at": "12/7/2024",
+      "updated_at": "12/7/2024"
+    },
+    {
+      "id": "3193"
+    }
+  ],
+  "product": [
+    {
+      "product_id": 1,
+      "product_name": "Kệ gỗ-Kệ sách cao cấp nhập khẩu",
+      "description": "cái gì đó",
+      "unit_price": 12000000,
+      "stock_quantity": 12,
+      "image": "//product.hstatic.net/200000065946/product/pro_nau_noi_that_moho_tu_ke_sach_oslo_3_559abb37999c4ac3ae4237dda7aa566b_master.jpg",
+      "created_at": "6/7/2024",
+      "updated_at": "10/7/2024",
+      "id": "b829",
+      "status": 1,
+      "category": 1,
+      "sold": 0
+    },
+    {
+      "product_id": 2,
+      "product_name": "Kệ gỗ-Kệ sách cao cấp nhập khẩu",
+      "description": "cái gì đó",
+      "unit_price": 12000000,
+      "stock_quantity": 12,
+      "image": "//product.hstatic.net/200000065946/product/pro_nau_noi_that_moho_tu_ke_sach_oslo_3_559abb37999c4ac3ae4237dda7aa566b_master.jpg",
+      "created_at": "6/7/2024",
+      "updated_at": "10/7/2024",
+      "id": "b829",
+      "status": 1,
+      "category": 1,
+      "sold": 0
+    },
+    {
+      "product_id": 3,
+      "product_name": "Kệ gỗ-Kệ sách cao cấp nhập khẩu",
+      "description": "cái gì đó",
+      "unit_price": 12000000,
+      "stock_quantity": 12,
+      "image": "//product.hstatic.net/200000065946/product/pro_nau_noi_that_moho_tu_ke_sach_oslo_3_559abb37999c4ac3ae4237dda7aa566b_master.jpg",
+      "created_at": "6/7/2024",
+      "updated_at": "10/7/2024",
+      "id": "b829",
+      "status": 1,
+      "category": 1,
+      "sold": 0
+    },
+    {
+      "product_id": 4,
+      "product_name": "Kệ gỗ-Kệ sách cao cấp nhập khẩu",
+      "description": "cái gì đó",
+      "unit_price": 12000000,
+      "stock_quantity": 12,
+      "image": "//product.hstatic.net/200000065946/product/pro_nau_noi_that_moho_tu_ke_sach_oslo_3_559abb37999c4ac3ae4237dda7aa566b_master.jpg",
+      "created_at": "6/7/2024",
+      "updated_at": "10/7/2024",
+      "id": "b829",
+      "status": 1,
+      "category": 1,
+      "sold": 0
+    },
+    {
+      "product_id": 5,
+      "product_name": "Kệ gỗ-Kệ sách cao cấp nhập khẩu",
+      "description": "cái gì đó",
+      "unit_price": 12000000,
+      "stock_quantity": 12,
+      "image": "//product.hstatic.net/200000065946/product/pro_nau_noi_that_moho_tu_ke_sach_oslo_3_559abb37999c4ac3ae4237dda7aa566b_master.jpg",
+      "created_at": "6/7/2024",
+      "updated_at": "10/7/2024",
+      "id": "b829",
+      "status": 1,
+      "category": 1,
+      "sold": 0
+    }
+  ],
+  "category": []
+}
